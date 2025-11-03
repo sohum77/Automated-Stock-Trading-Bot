@@ -1,0 +1,46 @@
+# ============================
+# 🚫 Python & Environment Files
+# ============================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+
+# ============================
+# 📦 IDE & Editor Files
+# ============================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ============================
+# 🧪 Logs & Temporary Files
+# ============================
+*.log
+logs/
+temp/
+*.tmp
+
+# ============================
+# 🧰 System Files
+# ============================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============================
+# 📸 Optional: Local Proofs
+# ============================
+# Uncomment if you don’t want screenshots on GitHub
+# Screenshots/
+
+# ============================
+# 🔐 Security
+# ============================
+# Never upload your API keys or secrets
+*.env
+apikey.txt
+secrets.json
